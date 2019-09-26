@@ -1,0 +1,619 @@
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : NEW_USER
+Entering : new_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : is_user_exist
+Entering : add_to_reg_user_file function
+Exiting : add_to_reg_user_file function
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : new_user_processing
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+ERROR : no _data_receive from_client in file ../src/server/send_recv.c at line 98
+ERROR : Error in BroadCasting Message in file ../src/server/broadcast_handler.c at line 101
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+exiting client handler
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Exiting : client_authentication
+Entering : send_to_client
+Exiting : send_to_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : NEW_USER
+Entering : new_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : is_user_exist
+Entering : add_to_reg_user_file function
+Exiting : add_to_reg_user_file function
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : new_user_processing
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Exiting : client_authentication
+Entering : send_to_client
+Exiting : send_to_client
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+exiting client handler
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+ERROR : Client Authentication in file ../src/server/client_authentication.c at line 98
+ERROR : CLIENT_AUTHENTICATION in file ../src/server/client_authentication.c at line 99
+Entering : send_to_client
+Exiting : send_to_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Exiting : client_authentication
+Entering : send_to_client
+Exiting : send_to_client
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+exiting client handler
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : recv_from_client
+ERROR : Error in BroadCasting Message in file ../src/server/broadcast_handler.c at line 101
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : recv_from_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : NEW_USER
+Entering : new_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : is_user_exist
+Entering : add_to_reg_user_file function
+Exiting : add_to_reg_user_file function
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : new_user_processing
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Exiting : client_authentication
+Entering : send_to_client
+Exiting : send_to_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Exiting : client_authentication
+Entering : send_to_client
+Exiting : send_to_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : recv_from_client
+ERROR : no _data_receive from_client in file ../src/server/send_recv.c at line 98
+ERROR : Error in BroadCasting Message in file ../src/server/broadcast_handler.c at line 101
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+exiting client handler
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : NEW_USER
+Entering : new_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : is_user_exist
+Entering : add_to_reg_user_file function
+Exiting : add_to_reg_user_file function
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : new_user_processing
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : NEW_USER
+Entering : new_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : is_user_exist
+Entering : add_to_reg_user_file function
+Exiting : add_to_reg_user_file function
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : new_user_processing
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Exiting : client_authentication
+Entering : send_to_client
+Exiting : send_to_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+ERROR : Client Authentication in file ../src/server/client_authentication.c at line 98
+ERROR : CLIENT_AUTHENTICATION in file ../src/server/client_authentication.c at line 99
+Entering : send_to_client
+Exiting : send_to_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+Exiting : recv_from_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+ SUCCESS IN : Starting SERVER
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : NEW_USER
+Entering : new_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : is_user_exist
+Entering : add_to_reg_user_file function
+Exiting : add_to_reg_user_file function
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : new_user_processing
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : recv_from_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : NEW_USER
+Entering : new_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : is_user_exist
+Entering : send_to_client
+Exiting : send_to_client
+THREAD START: client handlier
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : EXISTING OPTION
+Entering : existing_user_processing
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : client_authentication
+Entering : add_to_active_client_list function 
+Entering : send_to_client
+Exiting : send_to_client
+Exiting : Exiting_user_processing
+Starting : broadcast_handler thread
+Entering : recv_from_client
+Exiting : recv_from_client
+Entering : send_to_client
+Exiting : send_to_client
+Entering : recv_from_client
+ERROR : Error in BroadCasting Message in file ../src/server/broadcast_handler.c at line 101
+Entering : remove_from_active_client_list function 
+Exiting : remove_from_active_client_list function
+THREAD EXIT: broadcast_handler
+exiting client handler
